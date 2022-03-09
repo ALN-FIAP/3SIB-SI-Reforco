@@ -1,2 +1,2 @@
 # 3SIB-SI-Reforco
-Reforço de uso do GITFLOW
+Reforço de uso do GITFLOW com hub
